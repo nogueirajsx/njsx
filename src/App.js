@@ -5,8 +5,7 @@ import About from './pages/about'
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom"
 
 function App() {
